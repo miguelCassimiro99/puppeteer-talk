@@ -1,0 +1,21 @@
+{
+  "name": "puppeteer-acs-talk",
+  "version": "1.0.0",
+  "description": "puppeteer apresentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "testing",
+    "tdd",
+    "chrome"
+  ],
+  "author": "Miguel Cassimiro",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.0",
+    "puppeteer": "^5.3.1"
+  }
+}
